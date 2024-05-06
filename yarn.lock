@@ -2344,6 +2344,18 @@
   resolved "https://registry.npmjs.org/@xtuc/long/-/long-4.2.2.tgz"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
+a_mock@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npmjs.org/a_mock/-/a_mock-1.0.5.tgz"
+  integrity sha512-HnjqBn1raagaPlpT8+4A9ZP3ntlh3fuW7kpdoeiCapxtYYz8VPTOkyv7TdQ18b4kMHqMNfwqlWSurex8dXWMkw==
+
+a@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.npmjs.org/a/-/a-3.0.1.tgz"
+  integrity sha512-7keco9nAKQNb1+EFWVpzHrPfrFEcpzDoeYoKBktoUq/TQO0cpGDQ63KBQ3486a5OV5OGRzKC0Xu/g9IQb205qA==
+  dependencies:
+    a_mock "1.0.5"
+
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.6"
   resolved "https://registry.npmjs.org/abab/-/abab-2.0.6.tgz"
@@ -7359,10 +7371,10 @@ react-error-overlay@^6.0.11:
   resolved "https://registry.npmjs.org/react-error-overlay/-/react-error-overlay-6.0.11.tgz"
   integrity sha512-/6UZ2qgEyH2aqzYZgQPxEnz33NJ2gNsnHA2o5+o4wW9bLM/JYQitNP9xPhsXwC08hMMovfGe/8retsdDsczPRg==
 
-react-icons@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.npmjs.org/react-icons/-/react-icons-4.4.0.tgz"
-  integrity sha512-fSbvHeVYo/B5/L4VhB7sBA1i2tS8MkT0Hb9t2H1AVPkwGfVHLJCqyr2Py9dKMxsyM63Eng1GkdZfbWj+Fmv8Rg==
+react-icons@^4.12.0:
+  version "4.12.0"
+  resolved "https://registry.npmjs.org/react-icons/-/react-icons-4.12.0.tgz"
+  integrity sha512-IBaDuHiShdZqmfc/TwHu6+d6k2ltNCf3AszxNmjJc1KUfXdEeRJOKyNvLmAHaarhzGmTSVygNdyu8/opXv2gaw==
 
 react-is@^16.13.1:
   version "16.13.1"

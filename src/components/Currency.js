@@ -22,7 +22,7 @@ const Currency = (props) => {
         };
 
   return (
-    <div  className='alert alert-primary'>
+    <div  className='alert alert-info'>
     <label className="input-group-text" htmlFor="inputGroupCurrency">Currency( {currText} )</label>
     <select id='inputGroupCurrency' onChange={(event) => setCurrency(event.target.value)}>
       <option defaultValue value='£'>£ Pound</option>
